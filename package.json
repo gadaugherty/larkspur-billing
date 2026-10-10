@@ -1,0 +1,17 @@
+{
+  "name": "larkspur-billing",
+  "version": "0.4.2",
+  "private": true,
+  "description": "Customer billing portal for Larkspur Supply Co. (synthetic demo data)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": {
+    "next": "14.2.24",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

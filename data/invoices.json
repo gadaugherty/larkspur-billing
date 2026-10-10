@@ -1,0 +1,544 @@
+[
+  {
+    "id": "INV-1001",
+    "customer": "cus_rsg52x",
+    "tenant": "bramble-finch-bakery",
+    "currency": "usd",
+    "issued": "2026-07-27",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Express freight",
+        "qty": 2,
+        "unit_minor": 2400
+      }
+    ],
+    "subtotal_minor": 4800,
+    "tax_minor": 396,
+    "total_minor": 5196
+  },
+  {
+    "id": "INV-1002",
+    "customer": "cus_rsg52x",
+    "tenant": "bramble-finch-bakery",
+    "currency": "usd",
+    "issued": "2026-08-04",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Express freight",
+        "qty": 1,
+        "unit_minor": 2400
+      },
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      },
+      {
+        "desc": "Express freight",
+        "qty": 3,
+        "unit_minor": 2400
+      }
+    ],
+    "subtotal_minor": 7600,
+    "tax_minor": 627,
+    "total_minor": 8227
+  },
+  {
+    "id": "INV-1003",
+    "customer": "cus_rsg52x",
+    "tenant": "bramble-finch-bakery",
+    "currency": "usd",
+    "issued": "2026-09-19",
+    "status": "open",
+    "lines": [
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      }
+    ],
+    "subtotal_minor": -2000,
+    "tax_minor": -165,
+    "total_minor": -2165
+  },
+  {
+    "id": "INV-1004",
+    "customer": "cus_rt28os",
+    "tenant": "northgate-dental",
+    "currency": "usd",
+    "issued": "2026-07-25",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Label printer rental",
+        "qty": 4,
+        "unit_minor": 1500
+      },
+      {
+        "desc": "Packaging bundle",
+        "qty": 1,
+        "unit_minor": 12850
+      },
+      {
+        "desc": "Express freight",
+        "qty": 1,
+        "unit_minor": 2400
+      }
+    ],
+    "subtotal_minor": 21250,
+    "tax_minor": 1753,
+    "total_minor": 23003
+  },
+  {
+    "id": "INV-1005",
+    "customer": "cus_rt28os",
+    "tenant": "northgate-dental",
+    "currency": "usd",
+    "issued": "2026-08-15",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Label printer rental",
+        "qty": 3,
+        "unit_minor": 1500
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 1,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 9400,
+    "tax_minor": 776,
+    "total_minor": 10176
+  },
+  {
+    "id": "INV-1006",
+    "customer": "cus_rt28os",
+    "tenant": "northgate-dental",
+    "currency": "usd",
+    "issued": "2026-09-26",
+    "status": "past_due",
+    "lines": [
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 4,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 17600,
+    "tax_minor": 1452,
+    "total_minor": 19052
+  },
+  {
+    "id": "INV-1007",
+    "customer": "cus_ru781p",
+    "tenant": "tidewater-outfitters",
+    "currency": "usd",
+    "issued": "2026-07-06",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Express freight",
+        "qty": 2,
+        "unit_minor": 2400
+      },
+      {
+        "desc": "Express freight",
+        "qty": 1,
+        "unit_minor": 2400
+      }
+    ],
+    "subtotal_minor": 7200,
+    "tax_minor": 594,
+    "total_minor": 7794
+  },
+  {
+    "id": "INV-1008",
+    "customer": "cus_ru781p",
+    "tenant": "tidewater-outfitters",
+    "currency": "usd",
+    "issued": "2026-08-18",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Packaging bundle",
+        "qty": 4,
+        "unit_minor": 12850
+      }
+    ],
+    "subtotal_minor": 51400,
+    "tax_minor": 4241,
+    "total_minor": 55641
+  },
+  {
+    "id": "INV-1009",
+    "customer": "cus_ru781p",
+    "tenant": "tidewater-outfitters",
+    "currency": "usd",
+    "issued": "2026-09-20",
+    "status": "past_due",
+    "lines": [
+      {
+        "desc": "Label printer rental",
+        "qty": 2,
+        "unit_minor": 1500
+      }
+    ],
+    "subtotal_minor": 3000,
+    "tax_minor": 248,
+    "total_minor": 3248
+  },
+  {
+    "id": "INV-1010",
+    "customer": "cus_rvf1oe",
+    "tenant": "copperleaf-studio",
+    "currency": "usd",
+    "issued": "2026-07-21",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 3,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 14700,
+    "tax_minor": 1213,
+    "total_minor": 15913
+  },
+  {
+    "id": "INV-1011",
+    "customer": "cus_rvf1oe",
+    "tenant": "copperleaf-studio",
+    "currency": "usd",
+    "issued": "2026-08-05",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Packaging bundle",
+        "qty": 4,
+        "unit_minor": 12850
+      },
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      }
+    ],
+    "subtotal_minor": 49400,
+    "tax_minor": 4076,
+    "total_minor": 53476
+  },
+  {
+    "id": "INV-1012",
+    "customer": "cus_rvf1oe",
+    "tenant": "copperleaf-studio",
+    "currency": "usd",
+    "issued": "2026-09-13",
+    "status": "open",
+    "lines": [
+      {
+        "desc": "Packaging bundle",
+        "qty": 1,
+        "unit_minor": 12850
+      }
+    ],
+    "subtotal_minor": 12850,
+    "tax_minor": 1060,
+    "total_minor": 13910
+  },
+  {
+    "id": "INV-1013",
+    "customer": "cus_rwjt1",
+    "tenant": "harbor-lane-vet-clinic",
+    "currency": "usd",
+    "issued": "2026-07-01",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Packaging bundle",
+        "qty": 1,
+        "unit_minor": 12850
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 2,
+        "unit_minor": 4900
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 4,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 42250,
+    "tax_minor": 3486,
+    "total_minor": 45736
+  },
+  {
+    "id": "INV-1014",
+    "customer": "cus_rwjt1",
+    "tenant": "harbor-lane-vet-clinic",
+    "currency": "usd",
+    "issued": "2026-08-15",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 3,
+        "unit_minor": 4900
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 4,
+        "unit_minor": 4900
+      },
+      {
+        "desc": "Packaging bundle",
+        "qty": 2,
+        "unit_minor": 12850
+      }
+    ],
+    "subtotal_minor": 60000,
+    "tax_minor": 4950,
+    "total_minor": 64950
+  },
+  {
+    "id": "INV-1015",
+    "customer": "cus_rwjt1",
+    "tenant": "harbor-lane-vet-clinic",
+    "currency": "usd",
+    "issued": "2026-09-09",
+    "status": "past_due",
+    "lines": [
+      {
+        "desc": "Label printer rental",
+        "qty": 3,
+        "unit_minor": 1500
+      },
+      {
+        "desc": "Label printer rental",
+        "qty": 2,
+        "unit_minor": 1500
+      }
+    ],
+    "subtotal_minor": 7500,
+    "tax_minor": 619,
+    "total_minor": 8119
+  },
+  {
+    "id": "INV-1016",
+    "customer": "cus_rx5rvz",
+    "tenant": "quill-street-books",
+    "currency": "usd",
+    "issued": "2026-07-16",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      },
+      {
+        "desc": "Packaging bundle",
+        "qty": 1,
+        "unit_minor": 12850
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 4,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 30450,
+    "tax_minor": 2512,
+    "total_minor": 32962
+  },
+  {
+    "id": "INV-1017",
+    "customer": "cus_rx5rvz",
+    "tenant": "quill-street-books",
+    "currency": "usd",
+    "issued": "2026-08-23",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      },
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      }
+    ],
+    "subtotal_minor": -4000,
+    "tax_minor": -330,
+    "total_minor": -4330
+  },
+  {
+    "id": "INV-1018",
+    "customer": "cus_rx5rvz",
+    "tenant": "quill-street-books",
+    "currency": "usd",
+    "issued": "2026-09-17",
+    "status": "past_due",
+    "lines": [
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 2,
+        "unit_minor": 4900
+      },
+      {
+        "desc": "Express freight",
+        "qty": 1,
+        "unit_minor": 2400
+      },
+      {
+        "desc": "Express freight",
+        "qty": 3,
+        "unit_minor": 2400
+      }
+    ],
+    "subtotal_minor": 19400,
+    "tax_minor": 1601,
+    "total_minor": 21001
+  },
+  {
+    "id": "INV-1019",
+    "customer": "cus_rybmu4",
+    "tenant": "meridian-climbing-gym",
+    "currency": "usd",
+    "issued": "2026-07-05",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Label printer rental",
+        "qty": 1,
+        "unit_minor": 1500
+      },
+      {
+        "desc": "Bulk order credit",
+        "qty": 1,
+        "unit_minor": -2000
+      },
+      {
+        "desc": "Express freight",
+        "qty": 2,
+        "unit_minor": 2400
+      }
+    ],
+    "subtotal_minor": 4300,
+    "tax_minor": 355,
+    "total_minor": 4655
+  },
+  {
+    "id": "INV-1020",
+    "customer": "cus_rybmu4",
+    "tenant": "meridian-climbing-gym",
+    "currency": "usd",
+    "issued": "2026-08-20",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 1,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 4900,
+    "tax_minor": 404,
+    "total_minor": 5304
+  },
+  {
+    "id": "INV-1021",
+    "customer": "cus_rybmu4",
+    "tenant": "meridian-climbing-gym",
+    "currency": "usd",
+    "issued": "2026-09-04",
+    "status": "open",
+    "lines": [
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 3,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 14700,
+    "tax_minor": 1213,
+    "total_minor": 15913
+  },
+  {
+    "id": "INV-1022",
+    "customer": "cus_rzembe",
+    "tenant": "saltbox-coffee-roasters",
+    "currency": "usd",
+    "issued": "2026-07-21",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 4,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 19600,
+    "tax_minor": 1617,
+    "total_minor": 21217
+  },
+  {
+    "id": "INV-1023",
+    "customer": "cus_rzembe",
+    "tenant": "saltbox-coffee-roasters",
+    "currency": "usd",
+    "issued": "2026-08-23",
+    "status": "paid",
+    "lines": [
+      {
+        "desc": "Packaging bundle",
+        "qty": 3,
+        "unit_minor": 12850
+      },
+      {
+        "desc": "Packaging bundle",
+        "qty": 3,
+        "unit_minor": 12850
+      }
+    ],
+    "subtotal_minor": 77100,
+    "tax_minor": 6361,
+    "total_minor": 83461
+  },
+  {
+    "id": "INV-1024",
+    "customer": "cus_rzembe",
+    "tenant": "saltbox-coffee-roasters",
+    "currency": "usd",
+    "issued": "2026-09-10",
+    "status": "past_due",
+    "lines": [
+      {
+        "desc": "Express freight",
+        "qty": 1,
+        "unit_minor": 2400
+      },
+      {
+        "desc": "Supply plan - monthly",
+        "qty": 1,
+        "unit_minor": 4900
+      }
+    ],
+    "subtotal_minor": 7300,
+    "tax_minor": 602,
+    "total_minor": 7902
+  }
+]

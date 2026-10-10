@@ -1,0 +1,130 @@
+[
+  {
+    "id": "cus_rsg52x",
+    "tenant": "bramble-finch-bakery",
+    "company": "Bramble & Finch Bakery",
+    "contact": "Lena Novak",
+    "email": "lena.novak@bramble-finch-bakery.example.com",
+    "phone": "(919) 555-0152",
+    "address": "236 Alder St, Boise, ID 83722",
+    "tax_id": "00-0001000",
+    "card": {
+      "brand": "amex",
+      "last4": "8431",
+      "exp": "04/30"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_rt28os",
+    "tenant": "northgate-dental",
+    "company": "Northgate Dental",
+    "contact": "Grace Brennan",
+    "email": "grace.brennan@northgate-dental.example.com",
+    "phone": "(208) 555-0184",
+    "address": "855 Harbor Way, Austin, TX 78728",
+    "tax_id": "00-0001037",
+    "card": {
+      "brand": "mastercard",
+      "last4": "4444",
+      "exp": "11/28"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_ru781p",
+    "tenant": "tidewater-outfitters",
+    "company": "Tidewater Outfitters",
+    "contact": "Diego Kowalski",
+    "email": "diego.kowalski@tidewater-outfitters.example.com",
+    "phone": "(919) 555-0105",
+    "address": "342 Harbor Way, Boise, ID 83776",
+    "tax_id": "00-0001074",
+    "card": {
+      "brand": "visa",
+      "last4": "4242",
+      "exp": "04/29"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_rvf1oe",
+    "tenant": "copperleaf-studio",
+    "company": "Copperleaf Studio",
+    "contact": "Maya Novak",
+    "email": "maya.novak@copperleaf-studio.example.com",
+    "phone": "(208) 555-0181",
+    "address": "306 Mill Pond Ln, Madison, WI 53742",
+    "tax_id": "00-0001111",
+    "card": {
+      "brand": "amex",
+      "last4": "8431",
+      "exp": "12/28"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_rwjt1",
+    "tenant": "harbor-lane-vet-clinic",
+    "company": "Harbor Lane Vet Clinic",
+    "contact": "Noor Ramirez",
+    "email": "noor.ramirez@harbor-lane-vet-clinic.example.com",
+    "phone": "(503) 555-0193",
+    "address": "316 Juniper Ave, Portland, OR 97261",
+    "tax_id": "00-0001148",
+    "card": {
+      "brand": "mastercard",
+      "last4": "4444",
+      "exp": "09/29"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_rx5rvz",
+    "tenant": "quill-street-books",
+    "company": "Quill Street Books",
+    "contact": "Diego Brennan",
+    "email": "diego.brennan@quill-street-books.example.com",
+    "phone": "(503) 555-0190",
+    "address": "978 Juniper Ave, Raleigh, NC 27681",
+    "tax_id": "00-0001185",
+    "card": {
+      "brand": "visa",
+      "last4": "4242",
+      "exp": "03/29"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_rybmu4",
+    "tenant": "meridian-climbing-gym",
+    "company": "Meridian Climbing Gym",
+    "contact": "Maya Okafor",
+    "email": "maya.okafor@meridian-climbing-gym.example.com",
+    "phone": "(208) 555-0142",
+    "address": "441 Juniper Ave, Portland, OR 97262",
+    "tax_id": "00-0001222",
+    "card": {
+      "brand": "mastercard",
+      "last4": "4444",
+      "exp": "05/28"
+    },
+    "password": "larkspur-demo-pass"
+  },
+  {
+    "id": "cus_rzembe",
+    "tenant": "saltbox-coffee-roasters",
+    "company": "Saltbox Coffee Roasters",
+    "contact": "Diego Haddad",
+    "email": "diego.haddad@saltbox-coffee-roasters.example.com",
+    "phone": "(608) 555-0176",
+    "address": "665 Harbor Way, Boise, ID 83741",
+    "tax_id": "00-0001259",
+    "card": {
+      "brand": "visa",
+      "last4": "4242",
+      "exp": "03/28"
+    },
+    "password": "larkspur-demo-pass"
+  }
+]
